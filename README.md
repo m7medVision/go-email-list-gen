@@ -5,4 +5,3 @@ You should add some names inside names.txt.
 You should install go in your machine [link](https://go.dev/doc/install)<br>
 Then run the script by this command <br>
 ```go run main.go```
-@majhcc
