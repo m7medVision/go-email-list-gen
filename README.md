@@ -2,8 +2,7 @@
 This is tool helps you the generate list of email.<br>
 You should add some names inside names.txt.
 # Run the script:
-You should install go in your machine <br>
-Link(https://go.dev/doc/install) <br>
+You should install go in your machine [link](https://go.dev/doc/install)<br>
 Then run the script by this command <br>
 ```go run main.go```
 @majhcc
